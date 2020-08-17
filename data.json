@@ -1,0 +1,254 @@
+{
+  "razorBlades": [
+    {
+      "id": 11,
+      "name": "Опасная Бритва The Bluebeards Revenge «Claymore» Straight Razor 5/8",
+      "price": "5778",
+      "descriptions": "Классическая бритва со сверх-острым лезвием из высококачественной стали и ручкой из африканского черного дерева. Обеспечивает безупречно гладкое и профессиональное бритье.Качественная классическая бритва The Bluebeards Revenge «CLAYMORE» Straight Razor 5/8 African Blackwood из углеродистой стали — это прекрасный инструмент для бритья. Идеально подходит для мужчин, которые любят классический стиль бритья.Изготовлена ​​вручную с нанесением на лезвие аутентичной надписи, которая добавляет бритве стильный вид и уникальность. Современный дизайн бритвы не просто радует глаз, но и продуман до мельчайших деталей. Вес отлично сбалансирован, и таким образом бритва не производит излишнего давления на кожу, которое может спровоцировать раздражение и воспаление. Кожа владельца больше защищена от раздражения и мелких порезов. Подходит как для новичков, так и для опытных пользователей опасных бритв. Идеальный выбор настоящих мужчин.",
+      "brand": "Claymore",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2016-06-the-bluedeards-revange-claymore-straight-razor-543x543.webp"
+    },
+    {
+      "id": 12,
+      "name": "Дорожный Набор Для Бритья Edwin Jagger Ejlt2M3",
+      "price": "4188",
+      "descriptions": "Дорожный набор для бритья от Edwin Jagger.В наборе 1)футляр из натуральной черной кожи,2)бритва Mach 3 Turbo 3)помазок для путешествий из 100 % ворса барсука.Подлинная черная кожа с контрастными серыми швами делает чехол очень стильным. В чехле есть место для запасных лезвий.",
+      "brand": "Edwin Jagger",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2015-11-294-543x543.webp"
+    },
+    {
+      "id": 13,
+      "name": "Станок для бритья Above The Tie Calypso M1 Aluminium Safety Razor",
+      "price": "2988 ",
+      "descriptions": "Станок для бритья Above The Tie Calypso M1 Aluminium Safety Razor Изготовлен вручную из прочного авиационного алюминия марки 7075. В комплекте станка пластина безопасной бритвы M1. Т-образный станок Calypso M1 от Above The Tie гарантирует качество, эффективность и надежность в процессе бритья и обеспечит лучший результат. Головка бритвы получила совершенную обработку, из-за чего легко скользит по коже лица без усилий и нажима, а пластина M1 с симметричными отверстиями для лезвия подходит для наиболее агрессивного бритья.Удобная конструкция станка из прочного алюминия проста в эксплуатации и позволяет быстро и легко заменить лезвие. Эргономичная ручка помогает удобно держать станок в руке благодаря ребристой поверхности. Бритье в удовольствие без порезов — главная характеристика Calypso M1.Ручка станка также подходит для бритвы таких брендов: Weber, Tradede OC, Goodfella, Edwin Jagger, Muhle, Gillette с головками старого и современного типов. Вес — 40 г (бритва — 13 г, ручка — 27 г).",
+      "brand": "Calypso",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2017-07-stanok-dlya-britya-above-the-tie-calypso-m1-aluminium-safety-razor-1-543x543.webp"
+    }
+  ],
+  "shavingCosmetics": [
+    {
+      "id": 21,
+      "name": "Бальзам После Бритья Truefitt & Hill Grafton Aftershave Balm 100 Мл",
+      "price": "1298",
+      "descriptions": "Богатый, успокаивающий и увлажняющий крем, содержащий ланолин и экстракт алоэ вера, с ароматом Графтон. Подходит для всех типов кожи и специально разработан для мужчин с чувствительной кожей.В состав крема входят натуральные компоненты, которые обеспечивают эффективное и приятное бритья без раздражений. Так, алоэ вера как природный антисептик, имеет противовоспалительные свойства, снимает раздражение и защищает кожу. Среди активных компонентов также ланолин, глицерин и аллантоин. Глицерин делает кожу увлажненной, ланолин смягчает ее, а аллантоин стимулирует восстановление поврежденных клеток. Бальзам придает коже природного блеска и мягкости.",
+      "brand": "Truefitt & Hill",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Truefitt/balzam-posle-brytya-truefitt-hill-grafton-aftershave-balm-100-ml-543x543.webp"
+    },
+    {
+      "id": 22,
+      "name": "Лосьон После Бритья Floid Mentolado Vigoroso Xxl 400 Мл",
+      "price": "398",
+      "descriptions": "Современный лосьон после бритья FLOÏD masaje after shave loción mentolado vigoroso с классическим мужским ароматом устраняет раздражение после бритья, идеально увлажняет раздраженные участки кожи, а также тонизирует ее и оставляет мягкой на долгое время. Лосьон затягивает время, потому предотвращает появление раздражений.",
+      "brand": "Floid Mentolado",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2016-10-floi-d-masaje-after-shave-locio-n-vigoroso-xxl-400ml-1-1-543x543.webp"
+    },
+    {
+      "id": 23,
+      "name": "Лосьон После Бритья Floid Mentolado Suave 150 Мл",
+      "price": "248",
+      "descriptions": "Прекрасный защитный лосьон, который применяется после бритья. Он заряжает кожу энергией и восстанавливает ее естественный баланс после бритья. Современный мужской аромат, который не оставит равнодушным никого. Приятная свежесть и прохлада для Вашей кожи.",
+      "brand": "Floid Mentolado",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2016-06-floi-d-masaje-after-shave-locio-n-vigoroso-150-ml-1-543x543.webp"
+    },
+    {
+      "id": 24,
+      "name": "Лосьон после бритья Rasozero Spiffero Aftershave Splash 100 мл",
+      "price": "228",
+      "descriptions": "Продукт Rasozero Spiffero способен быстро привести кожу в порядок после процедуры удаления щетины. Он охлаждает и освежает лицо за считанные минуты, а также предоставляет им здоровый вид. После применения средства ощущаются чистота и бодрость на весь день. Антибактериальный эффект дает возможность бороться с микробами и препятствовать их размножению.",
+      "brand": "Rasozero",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product-2019/01-2019/Rasozero_Spiffero_Aftershave_Splash_100ml-543x543.webp"
+    },
+    {
+      "id": 25,
+      "name": "Мыло Для Бритья Le Pere Lucien Cologne-Fougere 200 Г",
+      "price": "788",
+      "descriptions": "Мягкое контактное бритья и стойкая пена - вот, что Вы получите. Это мыло прекрасно увлажняет и питает Вашу кожу, оставляя приятный аромат после бритья. Легко сбивается в пену - всего 15-20 секунд достаточно для приготовления пены, которой хватит на три «подходы».",
+      "brand": "Le Pere",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Le%20Pere%20Lucien/mylo-dlya-britya-le-pere-lucien-cologne-fougere-200g-1-543x543.webp"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 31,
+      "name": "Распылитель парфюмерный Proraso хромированный металл",
+      "price": "1288",
+      "descriptions": "Proraso Dispenser With Pump - это точный и аккуратный пульверизатор, который имеет классический и элегантный стиль. Внешне выполнен из хромированного металла, а внутри из стекла, чтобы предотвратить изменение свойств жидкости. Практически незаменимый инструмент для любителей традиционного бритья, для мужчин, которые заботятся об экономическом использования средств после бритья.",
+      "brand": "Proraso",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product-new/Proraso%20Dispenser%20With%20Pump%2050-543x543.webp"
+    },
+    {
+      "id": 32,
+      "name": "Миска Для Сбивания Пены The Bluebeards Revenge Porcelain Shaving Bowl",
+      "price": "1098",
+      "descriptions": "Чашка из фарфора для взбивания пены. Удобная форма помогает получить максимальное количество пены. Стильная ретро чаша для бритья предназначена для взбивания самой густой и пухнастох пены в Вашей жизни! Изготовлена из тончайшего фарфора, с платиновой оправой. Роскошный аксессуар будет выглядеть очень кстати на полке в ванной.",
+      "brand": "Proraso",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2015-12-44-543x543.webp"
+    },
+    {
+      "id": 33,
+      "name": "Помазок Для Бритья Omega 10810 Кабан Черный",
+      "price": "168",
+      "descriptions": "Помазок для бритья Omega 10810 Кабан Черный - это стильный современный аксессуар с пластиковой хромированное ручкой, який применяется во время бритья для приготовления и нанесения пены. Ручка помазка изготовлена из качественного пластика черного цвета и имеет мелкие ребра, поэтому помазок Не будет выскальзывать из рук во время использования.",
+      "brand": "Omega",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2017-01-omega-10810-kaban-chornij-543x543.webp"
+    },
+    {
+      "id": 34,
+      "name": "Помазок Для Бритья Omega 81151 С Подставкой",
+      "price": "448",
+      "descriptions": "Помазок для бритья Omega 81151 с Подставкой вместе образуют прекрасный комплект, предназначенный для того, чтобы быть вашим верным помощником в процессе бритья каждый день. Ручка помазка изготовлена из акриловой смолы интересного красного цвета, а его щетина с кабана имитирует окрас ворса барсука.",
+      "brand": "Omega",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2017-01-omega-81151-z-pidstavoyu-543x543.webp"
+    },
+    {
+      "id": 35,
+      "name": "Чаша для бритья Edwin Jagger RN6",
+      "price": "548",
+      "descriptions": "Элегантная металлическая чаша с никелированным покрытием внутри. Стильный дизайн и высокое качество от Edwin Jagger. Рекомендуется использовать качественными мылом, кремами и кисточкой для максимально эффективного бритья.",
+      "brand": "Edwin Jagger",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2015-11-2-543x543.webp"
+    }
+  ],
+  "hairBeard": [
+    {
+      "id": 41,
+      "name": "Бальзам для бороды Cella Beard Balm Protective 100 мл",
+      "price": "498",
+      "descriptions": "Бальзам Cella Beard Protective создан для эффективного ухода за бородой. Состав средства включает экстракт Моринг, которая отличается очищающим действием и работает, как антиоксидант и естественную защиту. Продукт обволакивает волос невидимой пленкой, тем самым обеспечивая барьер от загрязнений различного типа. Он прекрасно заменяет кондиционер, поэтому пряди расчесываются легко и выглядят гладкими и прямыми.",
+      "brand": "Cella Beard",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Cella/balzam-dlja-borodi-cella-beard-balm-protective-200-ml-543x543.webp"
+    },
+    {
+      "id": 42,
+      "name": "Масло Для Бороды Proraso Hot Oil Beard Treatment 4 х 17 мл",
+      "price": "298",
+      "descriptions": "Масло для бороды Proraso Wood & Spice Beard Hot Oil Treatment является отличным питательным средством, которое поможет не только поддерживать здоровье и ухоженный вид бороды, но также и отрастить ее до необходимых размеров. С ароматом кедра и цитрусового листьев.",
+      "brand": "Proraso Hot",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Proraso/maslo-dlja-borodi-proraso-hot-oil-beard-treatment-4-h-17-ml-543x543.webp"
+    },
+    {
+      "id": 43,
+      "name": "Помада для волос Reuzel Blue Pomade для толстых и жестких волос сильная фиксация сильный блеск на водной основе 340 г",
+      "price": "928",
+      "descriptions": "Моделирующая помада Reuzel Blue Hog для сильной фиксации. Помада приглаживает волосы и придает прическе эффект глянца. Продукт создан на водной основе, благодаря чему его так легко нанести на волосы и смыть после укладки. При этом легкие нотки приятного древесного аромата ванили будут держаться на волосах на протяжении дня.",
+      "brand": "Reuzel Blue",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Reuzel/modelirujushhaja-pomada-na-vodnoj-osnove-reuzel-blue-hog-340-g-1-543x543.webp"
+    },
+    {
+      "id": 44,
+      "name": "Щетка Для Волос Kent PF19",
+      "price": "398",
+      "descriptions": "Щетка для волос KENT PF 19 рассчитана для мягкого ухода за волосами любого типа. Благодаря особой технологии размещения зубчиков на воздушной подушке, даже очень тонкий и сильно спутанные волосы расчесываются без боли. Ее основа сделана из надежного материала - букового дерева.",
+      "brand": "Kent",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2016-03-kent-pf19-543x543.webp"
+    },
+    {
+      "id": 45,
+      "name": "Гребень Kent 8T Серия Handmade",
+      "price": "168",
+      "descriptions": "Kent 8T Handmade Tail Comb - это 190-миллиметровый тонкий гребешок типа унисекс, который был изготовлен вручную настоящими профессионалами. Аксессуар простой, но невероятно качественный.",
+      "brand": "Kent",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2015-08-8t-1-543x543.webp"
+    }
+  ],
+  "faceBody": [
+    {
+      "id": 51,
+      "name": "Антисептик спрей для дезинфекции рук, тела и поверхностей Touch Protect 250 мл",
+      "price": "198",
+      "descriptions": "Антисептик от Touch Protect изготавливается на спиртовой основе, благодаря глицерина спрей не пересушивает эпителий и хорошо подойдет для владельцев чувствительного типа кожи. В то же время, в составе антисептика находится витамин Е, который обеспечивает общее укрепление кожи и поддержания необходимого уровня влажности.",
+      "brand": "Touch Protect",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/2020/03-2020/Touch_Protect_250ml-543x543.webp"
+    },
+    {
+      "id": 52,
+      "name": "Гель Для Душа Truefitt & Hill Grafton Bath & Shower Gel 200 Мл",
+      "price": "598",
+      "descriptions": "Косметологи премиум-бренда Truefitt & Hill позаботились и о создании такого важного предмета личной гигиены, как гель для душа. Приятный освежающий аромат этого геля приносит сплошное удовольствие в процессе мытья. Мягко ухаживает за кожей тела, делая ее ухоженной и свежей.",
+      "brand": "Truefitt",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Truefitt/gel-dlya-dusha-truefitt-hill-grafton-bath-shower-gel-200-ml-543x543.webp"
+    },
+    {
+      "id": 53,
+      "name": "Подарочный набор Marvis Flavour Collection 7 по 25 мл",
+      "price": "448",
+      "descriptions": "Набор из 7 паст по 25 мл – это замечательный вариант для подарка. Такой набор зубных паст Marvis обязательно пригодится курильщикам. Упаковка представлена как несессер с петлей для крепления в ванной комнате.",
+      "brand": "Flavour",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Marvis/zestaw-prezentowy-marvis-flavour-collection-7-po-25ml-543x543.webp"
+    },
+    {
+      "id": 54,
+      "name": "Тальк Taylor of Old Bond Street Sandalwood Luxury Talcum Powder 100 гр",
+      "price": "498",
+      "descriptions": "Тальк Taylor of Old Bond Street Mr Taylor's Luxury Talcum Powder позволит сохранить ощущение свежести и сухости в течение всего дня и имеет приятный и ненавязчивый тонкий аромат. Специальная формула разработана для впитывания влаги, устранения зуда и раздражения после бритья.",
+      "brand": "Old Bond",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Marvis/zestaw-prezentowy-marvis-flavour-collection-7-po-25ml-543x543.webp"
+    },
+    {
+      "id": 55,
+      "name": "Дезодорант Шариковый D.R. Harris Arlington Roll-on Deodorant 50 г",
+      "price": "498",
+      "descriptions": "D.R. Harris Arlington — это высокоэффективный и практичный дезодорант на каждый день. Удобная шариковая форма обеспечивает тщательное распределение вещества по всей поверхности кожи. В то же время, активные компоненты в составе дезодоранта быстро нейтрализуют процесс жизнедеятельности микробов, тем самым предотвращая возникновение неприятного запаха. Формула дезодоранта также дополнительно регулирует работу потовых желез, выступая в качестве антиперспиранта.  ",
+      "brand": "Arlington",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/D%20R/dezodorant-sharikovij-d-r-harris-arlington-roll-on-deodorant-50-g-543x543.webp"
+    }
+  ],
+  "presents": [
+    {
+      "id": 61,
+      "name": "Дорожный Набор Для Бритья Edwin Jagger Ejlt2M3",
+      "price": "4188",
+      "descriptions": "Дорожный набор для бритья от Edwin Jagger. В наборе: 1) футляр из натуральной черной кожи, 2) бритва Mach 3 Turbo, 3) помазок для путешествий из 100 % ворса барсука.",
+      "brand": "Edwin Jagger",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2015-11-294-543x543.webp"
+    },
+    {
+      "id": 62,
+      "name": "Подарочный набор для бритья Taylor of Old Bond Street Shaving Brush, Mach 3 Razor & Jermyn Street Collection Shaving Cream 150 г",
+      "price": "3788",
+      "descriptions": "Помазок Pure Badger известен своей мягкостью, он прекрасный образует пену вместе с не менее качественным кремом для бритья. Крем прекрасно наносится на кожу и подготавливает ее к бритью, выпрямляя волоски, делая их таким образом податливыми для бритья. Бритва Mach 3 чисто бреет кожу, не оставляя раздражений и царапин. Это замечательный набор, с которым бритья станет комфортным и приятным во сто крат!",
+      "brand": "Old Bond",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product-2018/05-2018/Taylor-of-Old-Bond-Street-Shaving-Brush-Mach-3-Razor-Jermyn-Street-Collection-Shaving-Cream-543x543.webp"
+    },
+    {
+      "id": 63,
+      "name": "Масло Для Бороды Proraso Hot Oil Beard Treatment 4 х 17 мл",
+      "price": "298",
+      "descriptions": "Масло для бороды Proraso Wood & Spice Beard Hot Oil Treatment является отличным питательным средством, которое поможет не только поддерживать здоровье и ухоженный вид бороды, но также и отрастить ее до необходимых размеров. С ароматом кедра и цитрусового листьев.",
+      "brand": "Proraso",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/Proraso/maslo-dlja-borodi-proraso-hot-oil-beard-treatment-4-h-17-ml-543x543.webp"
+    },
+    {
+      "id": 64,
+      "name": "Маникюрный Набор Унисекс на 6 Предметов Truefitt & Hill Large Manicure Set 6 Piece Tan",
+      "price": "4788",
+      "descriptions": "Маникюрный набор премиум-класса не только функциональный, но и выглядит он очень стильно и эффектно. Прекрасно подойдет в качестве подарка для мужчины или женщины. Настоящая английское качество и новейшие технологии. Все это воплотилось в ультрасовременном наборе. Оригинальный и удобный футляр для хранения предметов, изготовлен из натуральной кожи в коричновому цвете.",
+      "brand": "Truefitt & Hill",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product/2017-03-truefitt-hill-large-manicure-set-6-piece-tan-543x543.webp"
+    },
+    {
+      "id": 65,
+      "name": "Подарочный Набор Muhle Organic Body Care Set",
+      "price": "948",
+      "descriptions": "Muhle Organic Body Care Set — это чудесный подарочный набор, который состоит из геля для душа и лосьона для тела. Продукты от легендарного немецкого бренда известны своим высоким качеством и тщательно заботятся о коже. ",
+      "brand": "Muhle",
+      "img": "https://barbercompany.com/image/cache/webp/catalog/product-2019/12-2019/Muhle_Organic_Body_Care_Set-543x543.webp"
+    }
+  ],
+  "commit": [
+    {
+      "texts": "Хороший товар, всем рекомендую!",
+      "productId": 11,
+      "time": "August 7th 2020, 12:29:07 pm",
+      "email": "goodman@gmail.com",
+      "id": 1
+    },
+    {
+      "texts": "\nCool",
+      "email": "someemailman@sadasd.com",
+      "time": "August 17th 2020, 2:45:50 pm",
+      "productId": 11,
+      "id": 2
+    }
+  ]
+}
